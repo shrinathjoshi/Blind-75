@@ -1,5 +1,5 @@
 
-[Leetcode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) \
+[Leetcode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) 
 
 [Blind Curated 75](https://leetcode.com/list/xoqag3yj/)
 
